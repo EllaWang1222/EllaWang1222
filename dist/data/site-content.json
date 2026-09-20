@@ -1,0 +1,209 @@
+{
+  "pages": [
+    {
+      "id": "page-1",
+      "sourceSheet": "Sheet1",
+      "title": {
+        "zh": "首页",
+        "en": "Home"
+      },
+      "modules": [
+        {
+          "id": "module-1",
+          "title": {
+            "zh": "基本信息",
+            "en": "Profile"
+          },
+          "items": [
+            {
+              "type": "text",
+              "value": {
+                "zh": "王佳辰(Wang Jiachen)",
+                "en": "Wang Jiachen"
+              }
+            },
+            {
+              "type": "image",
+              "src": "assets/photo.jpg",
+              "alt": {
+                "zh": "基本信息",
+                "en": "Profile"
+              }
+            }
+          ]
+        },
+        {
+          "id": "module-2",
+          "title": {
+            "zh": "教育经历",
+            "en": "Education"
+          },
+          "items": [
+            {
+              "type": "text",
+              "value": {
+                "zh": "2025.9-2029.6，上海交通大学，外国语学院德语专业，学士",
+                "en": "Sep 2025 – Jun 2029 · B.A. in German, School of Foreign Languages, Shanghai Jiao Tong University"
+              }
+            }
+          ]
+        },
+        {
+          "id": "module-3",
+          "title": {
+            "zh": "校园经历",
+            "en": "Campus Experience"
+          },
+          "items": [
+            {
+              "type": "text",
+              "value": {
+                "zh": "1、AIGC互动解谜游戏制作",
+                "en": "1. AIGC Interactive Puzzle Game"
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "与2名同学合作，利用AIGC工具及Mediapipe技术设计并完成一款简易互动解谜游戏。",
+                "en": "Collaborated with two classmates to design and complete an interactive puzzle game using AIGC tools and MediaPipe."
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "负责游戏剧情构思、AI生成内容及对视频素材进行剪辑与整体调优，确保叙事连贯性与可玩性。",
+                "en": "Developed the story, created AI-assisted content, and edited and refined video assets to strengthen narrative flow and playability."
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "借助AI生成角色对白、场景描述及部分美术素材，探索低成本快速原型开发流程。",
+                "en": "Used AI to create character dialogue, scene descriptions, and selected art assets while exploring a fast, low-cost prototyping workflow."
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "最终产出可运行的互动游戏Demo，团队内部测试反馈良好，锻炼了创意落地与跨角色协作能力。",
+                "en": "Delivered a working interactive game demo that received positive internal feedback and strengthened cross-functional collaboration skills."
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "2、校学生会 宣传部成员",
+                "en": "2. Communications Team · Student Union"
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "为学生会官方号设计过小红书推文，使用可画完成内容选题、图文创作与排版，用于活动宣传。",
+                "en": "Created Xiaohongshu posts for the Student Union, covering topic selection, visual production, and layout for event promotion."
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "在学校游园会活动中担任现场采访者，撰写采访提纲、现场记录，为后续宣传提供素材。",
+                "en": "Worked as an on-site interviewer at the university fair, preparing interview outlines and gathering material for follow-up communications."
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "3、班级宣传委员",
+                "en": "3. Class Communications Representative"
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "负责班级及团支部宣发工作，独立完成团日活动公众号推文的撰写与排版，并获得辅导员肯定。",
+                "en": "Led communications for the class and Youth League branch, independently writing and designing a WeChat article recognized by the academic advisor."
+              }
+            }
+          ]
+        },
+        {
+          "id": "module-4",
+          "title": {
+            "zh": "工具技能",
+            "en": "Creative Toolkit"
+          },
+          "items": [
+            {
+              "type": "text",
+              "value": {
+                "zh": "熟练使用秀米进行公众号推文的撰写与排版，熟悉从文稿撰写到图文美化、格式调整的全流程。",
+                "en": "Proficient in Xiumi for writing and laying out WeChat articles, from drafting and visual polish to final formatting."
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "能够运用可画设计小红书推文及活动海报，擅长根据校园传播场景输出符合品牌调性的视觉内容。",
+                "en": "Skilled in Canva-style visual design with Kawa, creating Xiaohongshu posts and event posters suited to campus communication contexts."
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "掌握剪映的基础剪辑功能，包括剪辑、字幕添加、配乐等，可独立完成短视频的后期制作。",
+                "en": "Comfortable with Jianying/CapCut editing, including cutting, subtitles, and music, and able to complete short-form video post-production independently."
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "熟悉可灵、即梦、豆包等AI生成工具，可辅助完成文本创作、图像生成等内容的快速迭代。",
+                "en": "Familiar with generative AI tools including Kling, Jimeng, and Doubao for rapid iteration of written and visual content."
+              }
+            },
+            {
+              "type": "text",
+              "value": {
+                "zh": "具备线下采访和素材收集能力，能完成采访提纲设计、现场记录以及后续宣传内容输出。",
+                "en": "Experienced in field interviews and material gathering, from interview planning and on-site notes to final promotional content."
+              }
+            }
+          ]
+        },
+        {
+          "id": "module-5",
+          "title": {
+            "zh": "语言能力",
+            "en": "Languages"
+          },
+          "items": [
+            {
+              "type": "text",
+              "value": {
+                "zh": "大学英语四级（CET-4）614分，大学英语六级（CET-6）630分，具备良好的读写与听说能力",
+                "en": "CET-4: 614 · CET-6: 630 · Strong reading, writing, listening, and speaking skills"
+              }
+            }
+          ]
+        },
+        {
+          "id": "module-6",
+          "title": {
+            "zh": "自我介绍",
+            "en": "About Me"
+          },
+          "items": [
+            {
+              "type": "text",
+              "value": {
+                "zh": "待填写",
+                "en": "To be added"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

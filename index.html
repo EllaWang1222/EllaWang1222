@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="王佳辰的双语个人主页：教育、校园经历与创作技能。" />
+    <meta name="theme-color" content="#153f46" />
+    <title>王佳辰 · Personal Homepage</title>
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%23153f46'/%3E%3Cpath d='M16 18l11 30h9l12-30h-9l-7 20-7-20z' fill='%23f2c879'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="#page-1" aria-label="返回首页">
+          <span class="brand-mark" aria-hidden="true">W</span>
+          <span class="brand-copy">
+            <strong>Wang Jiachen</strong>
+            <small data-i18n="portfolio">PERSONAL PORTFOLIO</small>
+          </span>
+        </a>
+        <nav class="desktop-nav" id="desktop-nav" aria-label="页面导航"></nav>
+        <div class="header-actions">
+          <button class="language-toggle" id="language-toggle" type="button" aria-label="Switch to English">
+            <span class="language-option active" data-lang-label="zh">中</span>
+            <span class="language-option" data-lang-label="en">EN</span>
+          </button>
+          <button class="menu-toggle" id="menu-toggle" type="button" aria-expanded="false" aria-controls="mobile-nav" aria-label="打开菜单">
+            <span></span><span></span>
+          </button>
+        </div>
+      </header>
+
+      <nav class="mobile-nav" id="mobile-nav" aria-label="移动端页面导航"></nav>
+
+      <main id="app" tabindex="-1">
+        <div class="loading">正在整理页面…</div>
+      </main>
+
+      <footer class="site-footer">
+        <span>© <span id="year"></span> Wang Jiachen</span>
+        <span data-i18n="footer">Curiosity, craft & thoughtful communication.</span>
+      </footer>
+    </div>
+    <script src="app.js" defer></script>
+  </body>
+</html>
